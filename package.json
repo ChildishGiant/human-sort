@@ -1,0 +1,30 @@
+{
+  "name": "human-sort",
+  "version": "1.0.0",
+  "description": "Sort a list using lots of smaller choices.",
+  "scripts": {
+    "start": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChildishGiant/human-sort.git"
+  },
+  "author": "ChildishGiant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChildishGiant/human-sort/issues"
+  },
+  "homepage": "https://github.com/ChildishGiant/human-sort#readme",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bulma": "^0.9.2",
+    "bulma-prefers-dark": "0.1.0-beta.0",
+    "bulma-toast": "^2.3.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-beta.2",
+    "parcel": "^2.0.0-beta.2",
+    "sass": "^1.32.8"
+  }
+}
