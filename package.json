@@ -4,7 +4,7 @@
   "description": "Sort a list using lots of smaller choices.",
   "scripts": {
     "start": "parcel serve ./src/index.html",
-    "build": "parcel build ./src/index.html --dist-dir docs --public-url /docs/"
+    "build": "parcel build ./src/index.html --dist-dir docs --public-url /human-sort/"
   },
   "repository": {
     "type": "git",
